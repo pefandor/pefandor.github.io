@@ -9,7 +9,87 @@
     <link>https://market.yandex.ru</link>
     <language>ru</language>
     <description>Лучшие товары с Яндекс Маркета</description>
-    <lastBuildDate>Mon, 12 Jan 2026 11:44:31 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 17:21:08 +0300</lastBuildDate>
+
+    <item>
+        <title>Простые рецепты завтрака</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-cf9b4a135ed221f5a990</guid>
+        <pubDate>Mon, 22 Dec 2025 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Овсянка с фруктами за 5 минут.</p><p>Яичница с овощами - классика.</p><p>Смузи из банана - быстро и полезно.</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Идеи для уютного вечера</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-c5bb0ca50938c1ff4eed</guid>
+        <pubDate>Thu, 25 Dec 2025 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Приглушенный свет создает атмосферу.</p><p>Хорошая книга или фильм для отдыха.</p><p>Горячий чай завершит вечер.</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Уход за бытовой техникой</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-dda239dfe8b6eb79c3dd</guid>
+        <pubDate>Sun, 28 Dec 2025 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Регулярная чистка продлевает срок службы.</p><p>Следуйте инструкциям производителя.</p><p>Не перегружайте приборы.</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Тренды в дизайне интерьера</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-e9da376479725e481377</guid>
+        <pubDate>Wed, 31 Dec 2025 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Минимализм актуален - меньше вещей, больше пространства.</p><p>Натуральные материалы в тренде.</p><p>Растения создают уют.</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Как экономить на покупках</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-789f1a4e704367ddd9a2</guid>
+        <pubDate>Sat, 03 Jan 2026 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Сравнивайте цены перед покупкой.</p><p>Следите за акциями и используйте кэшбэк.</p><p>Покупайте сезонные товары заранее.</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Советы по организации рабочего пространства</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-0ccccd7707502cde6e58</guid>
+        <pubDate>Tue, 06 Jan 2026 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Порядок на столе - порядок в голове.</p><p>Уберите лишнее, используйте органайзеры.</p><p>Хорошее освещение важно для работы.</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Полезные привычки для продуктивного дня</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-20d8ae20da358ffaaa1e</guid>
+        <pubDate>Fri, 09 Jan 2026 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Начинайте день с планирования. Запишите 3 главные задачи.</p><p>Делайте перерывы каждые 45-60 минут работы.</p><p>Пейте воду и двигайтесь.</p>]]></content:encoded>
+    </item>
+
+    <item>
+        <title>Как выбрать качественные товары для дома</title>
+        <link>https://pefandor.github.io/</link>
+        <guid>post-de9620cbb9ea16b414c6</guid>
+        <pubDate>Mon, 12 Jan 2026 17:21:08 +0300</pubDate>
+        <category>format-post</category>
+        
+        <content:encoded><![CDATA[<p>Выбор товаров для дома требует внимания к деталям.</p><p>Обращайте внимание на материалы, читайте отзывы и сравнивайте цены.</p><p>Качественная вещь прослужит долго.</p>]]></content:encoded>
+    </item>
 
     <item>
         <title>Тестовый товар для Дзен</title>
